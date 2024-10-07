@@ -1,0 +1,61 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+b {
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.orange {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.ok {
+    background-color: bisque;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.non {
+    background-color: bisque;
+    padding: 30px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.yes {
+    background-color: bisque;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.no {
+    background-color: bisque;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+body {
+    background-color: rgb(255, 249, 241);
+
+}
+
+p {
+    background-color: bisque;
+    border-radius: 10px;
+    font-size: 22px;
+}
+
+ul {
+    font-size: 25px;
+}
